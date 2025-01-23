@@ -1,6 +1,6 @@
 {
   "name": "@xirelogy/vue-minimal",
-  "version": "3.5.1",
+  "version": "3.5.2",
   "description": "Minimal types for vue's cross project Typescript compatibility",
   "repository": {
     "type": "git",
